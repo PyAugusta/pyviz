@@ -1,0 +1,16 @@
+name: pyviz
+channels:
+  - conda-forge
+  - ioam
+dependencies:
+  - python=3.6
+  - bokeh
+  - bkcharts
+  - matplotlib
+  - holoviews
+  - geoviews
+  - datashader
+  - pandas
+  - numpy
+  - xarray
+  - iris
